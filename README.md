@@ -1,4 +1,4 @@
-# mpowerbi-dsa
+# course-mpowerbi
 
 Studies on Microsoft Power BI software from the Data Science Academy website.
 
